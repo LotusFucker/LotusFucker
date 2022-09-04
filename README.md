@@ -16,7 +16,3 @@
 </div>
 
 ##
-
-<div>
- <a href="Zé da Branca#2584" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
