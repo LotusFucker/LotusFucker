@@ -1,9 +1,9 @@
-###  Hello!? 🐢
+###  Hello! 🐢
 
 
 
 - 🔭 I’m currently working on Python programing!🐢
-- 🚨 I’m currently trying to learn Lua.🐢
+- 🚨 And I am currently trying to learn Lua too.🐢
 
 <div align="center">
   <a href="https://github.com/LotusFucker">
