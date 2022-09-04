@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Python programing!🐢
 - 🚨 I’m currently trying to learn Lua.🐢
-- ✅ Call me on twitter if you need anything...🐢
 
 <div align="center">
   <a href="https://github.com/LotusFucker">
