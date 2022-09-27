@@ -3,8 +3,6 @@
 
 
 - 🔭 I’m currently working on Python programing!🐢
-- 🚨 And I am currently trying to learn Lua too.🐢
-
 
 ### 🐢
 
